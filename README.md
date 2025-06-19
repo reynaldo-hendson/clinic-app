@@ -89,6 +89,10 @@ const api = axios.create({
 # Inicie a aplicação
 npx expo start
 
+# Autenticação do app
+login: admin
+password: admin
+
 ```
 Após isso, abra o aplicativo Expo Go no seu dispositivo e escaneie o QR Code gerado.
 
