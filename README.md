@@ -66,7 +66,7 @@ git clone https://github.com/reynaldo-hendson/clinic-app.git
 cd clinic-app
 
 # Instale as dependências
-npm install
+npm install --legacy-peer-deps
 
 # Configure o endereço IP do backend
 Antes de iniciar a aplicação, é necessário ajustar a URL base da API para apontar para o IP local da sua máquina (onde o backend está rodando).
